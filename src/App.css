@@ -1,0 +1,35 @@
+h1 {
+  text-align: top;
+}
+
+
+
+.VendingMachine {
+  height: 100vh;
+  width:  50%;  
+  display: block; 
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  background-repeat: no-repeat;
+}
+.soda {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+}
+.chips {
+  display: flex;  
+  justify-content: space-around;
+  height: 100vh;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  background-repeat: no-repeat;
+}
+.cookies {
+  display: flex;  
+  justify-content: space-around;
+  height: 100vh;
+}
+
